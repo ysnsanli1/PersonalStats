@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "modid": "personalstats",
+  "name": "Personal Stats",
+  "authors": ["Yasin"],
+  "description": "Kisisel istatistik paneli: yurunen mesafe, hayatta kalinan gun, olum sayisi, kirilan blok, oldurulen mob.",
+  "version": "0.1.0",
+  "side": "Universal",
+  "dependencies": {
+    "game": ""
+  }
+}
